@@ -17,7 +17,7 @@ This repo contains the required files for the Python-API Challlenge for Ana Gonz
 
 ## Files
 
-.gitignore file: Updated so api keys are in .gitignore file.
+.gitignore file: Updated so api keys are hidden.
 
 **WeatherPy folder:** This folder contains the files below:
 
